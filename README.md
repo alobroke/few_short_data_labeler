@@ -359,14 +359,6 @@ Support Ticket Router dataset:
 
 [Hugging Face – Support-Ticket-Router-12K-Cleaned](https://huggingface.co/datasets/cngchis/Support-Ticket-Router-12K-Cleaned)
 
-## Author
-
-**Anuj Bharat**
-
-- GitHub: [@alobroke](https://github.com/alobroke)
-- Project Repository: [few_short_data_labeler](https://github.com/alobroke/few_short_data_labeler)
-
----
 
 <p align="center">
   <strong>Built to explore Few-Shot Learning, LLM-based Data Labelling, and Transformer Fine-Tuning.</strong>
