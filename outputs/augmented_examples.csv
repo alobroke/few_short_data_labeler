@@ -1,0 +1,6 @@
+ticket_text,predicted_label,source
+"I keep getting a 401 Unauthorized error when trying to access the /users endpoint. My API key seems correct, but the response always says ""Invalid credentials.""",technical,synthetic
+The application crashes with an OutOfMemoryError after a few minutes of operation. I suspect a memory leak in the data processing module. Can you help diagnose?,technical,synthetic
+Our website is experiencing intermittent 502 Bad Gateway errors during peak traffic. The load balancer logs show a spike in backend timeouts. We need guidance on scaling.,technical,synthetic
+"When I attempt to connect to the MySQL database from the Docker container, I receive ""Can't connect to MySQL server on 'db' (111)"". The database is running and accessible from the host. Any suggestions?",technical,synthetic
+"SSL handshake fails with ""certificate expired"" on the payment gateway endpoint. The certificate was renewed last week, but the error persists. What could be wrong?",technical,synthetic

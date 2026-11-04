@@ -1,0 +1,7 @@
+human_label,total_tickets,groq_errors,distilbert_errors
+api,11,1,11
+billing,9,0,1
+cancellation,9,0,9
+complaint,7,0,7
+technical,5,0,5
+upgrade,9,0,2
