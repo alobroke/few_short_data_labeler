@@ -3,7 +3,7 @@ import torch
 
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL_PATH = "models/distilbert"
+MODEL_PATH = "alobroke/few-shot-data-labeler-distilbert"
 
 device = torch.device(
     "cuda" if torch.cuda.is_available() else "cpu"
